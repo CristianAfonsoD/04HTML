@@ -16,3 +16,8 @@ img{
     max-width: 100%;
     height: auto;
 }
+
+.link-fusca{
+    color: blue;
+    text-decoration: underline;
+}
